@@ -1,6 +1,6 @@
 ![Mekanism Logo](logo.png)
 
-# Mekanism for Minecraft 1.20 #
+# Mekanism for Minecraft 1.20 #<br>
 # Mit neuen Texturen und Deutscher Übesetzung #
 
 Mekanism is an independent Minecraft add-on featuring high-tech machinery that can be used to create powerful tools, 
